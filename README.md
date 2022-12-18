@@ -17,9 +17,7 @@ In this project, a SCARA manipulator is designed using URDF and position and vel
 
 ### Result
 
-![Alt Text](https://github.com/mayankbansal82/Hexapod_Walking_Robot-HexR/blob/main/Images/Hexapod.jpeg)
+The robot moving along +Y direction can be seen in the below GIF.
 
-The robot performing the tripod gait motion can be seen in the below GIF.
-
-![Alt Text](https://github.com/mayankbansal82/Hexapod_Walking_Robot-HexR/blob/main/Images/output.gif)
+![Alt Text](https://github.com/mayankbansal82/SCARA-manipulator/blob/main/images/output.gif)
 
